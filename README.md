@@ -48,4 +48,4 @@ Here are the results derived from the cleaned data model:
 ![Product Sales](screenshots/product-sales.png)
 
 ### 3. Average Price in Dallas
-![Dallas Average Price](screenshots/dallas-avg-price.png)
+![Dallas Average Price](screenshots/Average of price by City .png)
