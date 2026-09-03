@@ -15,10 +15,10 @@ This project focuses on resolving data inconsistencies, establishing proper tabl
 Here are the results derived from the cleaned data model:
 
 * **What is the total revenue in California?**  
-  👉 **$2,230.63**
+  👉 **$2,1k**
 
 * **How many sales were made for the product "Namkeen - Rice Kodubale (Sln)"?**  
-  👉 **1,263 sales**
+  👉 **1137 sales**
 
 * **What is the average product price in Dallas?**  
   👉 **$14.43** (exact: $14.4278)
@@ -42,10 +42,10 @@ Here are the results derived from the cleaned data model:
 ## 🖼️ Dashboard / Visual Preview
 
 ### 1. Total Revenue in California
-![California Revenue](screenshots/california-revenue.png)
+![California Revenue](screenshots/Sum-of-revenue-by-state.png)
 
 ### 2. Product Sales: "Namkeen - Rice Kodubale (Sln)"
-![Product Sales](screenshots/product-sales.png)
+![Product Sales](screenshots/Sum-of-Sales-by-Product.png)
 
 ### 3. Average Price in Dallas
-![Dallas Average Price](screenshots/Average of price by City .png)
+![Dallas Average Price](screenshots/Average-of-price-by-City.png)
