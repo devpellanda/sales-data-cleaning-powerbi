@@ -49,3 +49,9 @@ Here are the results derived from the cleaned data model:
 
 ### 3. Average Price in Dallas
 ![Dallas Average Price](screenshots/Average-of-price-by-City.png)
+
+Markdown
+### Revenue Analysis by State & Promotion Type
+![Revenue by State and Promo](screenshots/revenue-state-promo.png)
+
+* **Key Takeaway:** Demonstrates total revenue breakdown across states segmented by promotional types (`promo_type_1`), highlighting top-performing states such as Arizona ($2.17K), California ($2.05K), and Florida ($1.71K).
