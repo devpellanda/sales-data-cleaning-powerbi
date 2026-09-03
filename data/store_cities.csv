@@ -1,14 +1,14 @@
 store_id,storetype_id,store_szie,city_id,state - state abr - city,lat / long
-S0091,ST04,19 m²,C013,AR - Arkansas - Hot Springs National Park,34.5137 / -92.9685
-S0012,ST04,28 m²,C005,TX - Texas - Huntsville,30.7813 / -95.5953
+S0091,ST04,19 mÂ²,C013,AR - Arkansas - Hot Springs National Park,34.5137 / -92.9685
+S0012,ST04,28 mÂ²,C005,TX - Texas - Huntsville,30.7813 / -95.5953
 S0045,ST04,17 qm,C008,NC - North Carolina - Asheville,35.6004 / -82.4918
-S0032,ST03,14 m²,C019,CA - California - Los Angeles,33.7866 / -118.2987
+S0032,ST03,14 mÂ²,C019,CA - California - Los Angeles,33.7866 / -118.2987
 S0027,ST04,24 qm,C022,TX - Texas - Texarkana,33.3934 / -94.3404
 S0088,ST04,20 qm,C009,OK - Oklahoma - Tulsa,36.1398 / -96.0297
 S0095,ST02,44 qm,C014,OH - Ohio - Cincinnati,39.0706 / -84.4179
 S0055,ST04,24 qm,C014,FL - Florida - Gainesville,29.6813 / -82.3539
 S0099,ST03,14 qm,C014,DE - Delaware - Wilmington,39.8188 / -75.5064
-S0078,ST04,19 m²,C036,GA - Georgia - Alpharetta,34.0268 / -84.2422
+S0078,ST04,19 mÂ²,C036,GA - Georgia - Alpharetta,34.0268 / -84.2422
 S0006,ST03,8 qm,C024,CO - Colorado - Arvada,39.8422 / -105.1097
 S0135,ST03,16 qm,C035,GA - Georgia - Savannah,32.0391 / -81.1242
 S0066,ST04,47 qm,C033,CA - California - Sacramento,38.3774 / -121.4444
